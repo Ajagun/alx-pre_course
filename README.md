@@ -1,2 +1,2 @@
-My first readme. Tips
-it has been updated
+My first readme. Tip
+something nice
